@@ -1,13 +1,17 @@
-# Intelligent agent Enemy
+# form
 
-Intelligent agent Enemy is an HTML project with 1 HTML page(s). The pages are titled New form. No CSS implementation was detected in the uploaded files. No JavaScript implementation was detected in the uploaded files.
+form is an HTML project with 1 HTML page(s). The pages are titled Document. No CSS implementation was detected in the uploaded files. No JavaScript implementation was detected in the uploaded files.
 
 ## Category
-AI / Machine Learning
+Web Development
 
 ## Features
-- Interactive forms
 - Responsive viewport
+- Image content
+- Ordered and nested lists
+- Headings and text formatting
+- Audio and video embedding
+- Hyperlinks
 
 ## Technologies
 HTML5
@@ -15,8 +19,11 @@ HTML5
 ## Languages
 HTML
 
+## Skills demonstrated
+HTML lists and content structure, Hyperlinks and page navigation, Embedding images and media, HTML text structure and formatting
+
 ## Project files
-- `form.html`
+- `index.html`
 
 ## Status
 Development
